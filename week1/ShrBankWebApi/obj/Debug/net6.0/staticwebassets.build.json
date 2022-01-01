@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d4iPk4nz4ZxvR0EZ0nGohMQ04S9buXnHPFCx5uFhzbI=",
+  "Source": "ShrBankWebApi",
+  "BasePath": "_content/ShrBankWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
