@@ -1,0 +1,17 @@
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantFinder.DataAccess.deps.json
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantFinder.DataAccess.runtimeconfig.json
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantFinder.DataAccess.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\ref\RestaurantFinder.DataAccess.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantFinder.DataAccess.pdb
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.AssemblyInfo.cs
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\ref\RestaurantFinder.DataAccess.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.pdb
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.genruntimeconfig.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantLibrarys.Entities.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\bin\Debug\net6.0\RestaurantLibrarys.Entities.pdb
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantFinder.DataAccess\obj\Debug\net6.0\RestaurantFinder.DataAccess.csproj.CopyComplete

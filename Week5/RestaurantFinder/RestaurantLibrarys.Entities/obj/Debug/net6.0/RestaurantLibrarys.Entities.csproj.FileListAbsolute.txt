@@ -1,0 +1,12 @@
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\bin\Debug\net6.0\RestaurantLibrarys.Entities.deps.json
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\bin\Debug\net6.0\RestaurantLibrarys.Entities.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\bin\Debug\net6.0\ref\RestaurantLibrarys.Entities.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\bin\Debug\net6.0\RestaurantLibrarys.Entities.pdb
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.AssemblyInfoInputs.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.AssemblyInfo.cs
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.csproj.CoreCompileInputs.cache
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\ref\RestaurantLibrarys.Entities.dll
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.pdb
+C:\Users\grona\OneDrive\Masaüstü\RestaurantFinder\RestaurantLibrarys.Entities\obj\Debug\net6.0\RestaurantLibrarys.Entities.csproj.AssemblyReference.cache

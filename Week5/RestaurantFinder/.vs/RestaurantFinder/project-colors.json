@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6886c343-c955-43c1-bd58-7fc1e5b07c90": {
+      "ProjectGuid": "6886c343-c955-43c1-bd58-7fc1e5b07c90",
+      "DisplayName": "RestaurantFinder",
+      "ColorIndex": 0
+    },
+    "532b8527-f4b7-41e6-b83e-9926dd91917f": {
+      "ProjectGuid": "532b8527-f4b7-41e6-b83e-9926dd91917f",
+      "DisplayName": "RestaurantFinder.DataAccess",
+      "ColorIndex": 1
+    },
+    "91285cef-31b7-4cbe-844f-166351af001c": {
+      "ProjectGuid": "91285cef-31b7-4cbe-844f-166351af001c",
+      "DisplayName": "RestaurantLibrarys.Entities",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
